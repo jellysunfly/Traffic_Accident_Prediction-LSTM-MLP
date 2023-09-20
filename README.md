@@ -1,1 +1,1 @@
-# Traffic_Accident_Prediction-LSTM-MLP
+# Traffic_Accident_Prediction LSTM-MLP model
